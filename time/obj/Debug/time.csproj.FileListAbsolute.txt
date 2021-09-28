@@ -1,0 +1,10 @@
+G:\project\time\time\bin\Debug\time.exe.config
+G:\project\time\time\bin\Debug\time.exe
+G:\project\time\time\bin\Debug\time.pdb
+G:\project\time\time\obj\Debug\time.csproj.AssemblyReference.cache
+G:\project\time\time\obj\Debug\time.Form1.resources
+G:\project\time\time\obj\Debug\time.Properties.Resources.resources
+G:\project\time\time\obj\Debug\time.csproj.GenerateResource.cache
+G:\project\time\time\obj\Debug\time.csproj.CoreCompileInputs.cache
+G:\project\time\time\obj\Debug\time.exe
+G:\project\time\time\obj\Debug\time.pdb
